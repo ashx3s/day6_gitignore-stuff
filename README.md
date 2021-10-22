@@ -1,3 +1,3 @@
 # TITLE FROM GITHUB
 
-A subtitle
+Merge and conflict activity
