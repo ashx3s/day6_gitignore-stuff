@@ -1,3 +1,3 @@
 # TITLE FROM GITHUB
 
-A subtitle
+Trying to merge a conflict
